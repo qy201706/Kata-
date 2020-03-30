@@ -16,3 +16,7 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 
 >Simple Pig Latin(5kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/5kyu/Simple%20Pig%20Latin/question_instruction/question.txt)
+
+> 2020/3/30
+>Counting Duplicates(6kyu)
+[instruction](https://github.com/qy201706/Kata-/blob/master/6kyu/Counting%20Duplicates/question_instruction/question.txt)
