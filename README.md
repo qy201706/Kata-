@@ -19,4 +19,4 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 
 > 2020/3/30
 >Counting Duplicates(6kyu)
-[instruction](https://github.com/qy201706/Kata-/blob/master/6kyu/Counting%20Duplicates/question_instruction/question.txt)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/6kyu/Counting%20Duplicates/question_instruction/question.txt)
