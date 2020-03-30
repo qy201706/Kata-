@@ -1,6 +1,6 @@
 # Kata_trainning
 > 2020/3/26:
->Maximum Multiple(7kyu),
+>Maximum Multiple(7kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/7kyu/Maximum%20Multiple/question_instruction/question.txt)
 
 >Validate Credit Card Number(6kyu)
