@@ -28,5 +28,6 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > 2020/4/2
 > Multiples of 3 or 5(6kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/6kyu/Multiples%20of%203%20or%205/question.txt)
+
 > Primes in numbers(5kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/5kyu/Primes%20in%20numbers/question_instruction/question.txt)
