@@ -35,3 +35,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > 2020/4/12
 > Range Extraction(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Range%20Extraction/question_instruction/question.txt)
+
+> 2020/4/15
+> Permutations(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Permutations/question_instruction/instruction.txt)
+> ,,ԾㅂԾ,,  string s("") is a string whose length is zero...
