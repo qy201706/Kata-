@@ -31,3 +31,7 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 
 > Primes in numbers(5kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/5kyu/Primes%20in%20numbers/question_instruction/question.txt)
+
+> 2020/4/12
+> Range Extraction(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Range%20Extraction/question_instruction/question.txt)
