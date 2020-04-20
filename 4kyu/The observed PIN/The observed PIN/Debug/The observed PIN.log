@@ -1,0 +1,6 @@
+﻿  solution.cpp
+f:\卿易\c++\kata练习\4kyu\the observed pin\the observed pin\solution.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+f:\卿易\c++\kata练习\4kyu\the observed pin\the observed pin\solution.cpp(114): warning C4244: “+=”: 从“double”转换到“unsigned int”，可能丢失数据
+f:\卿易\c++\kata练习\4kyu\the observed pin\the observed pin\solution.cpp(121): warning C4018: “<=”: 有符号/无符号不匹配
+f:\卿易\c++\kata练习\4kyu\the observed pin\the observed pin\solution.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+  The observed PIN.vcxproj -> F:\卿易\C++\Kata练习\4kyu\The observed PIN\Debug\The observed PIN.exe

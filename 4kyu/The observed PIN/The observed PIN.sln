@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The observed PIN", "The observed PIN\The observed PIN.vcxproj", "{579B372F-42ED-4760-8F5D-B641930403AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Debug|x64.ActiveCfg = Debug|x64
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Debug|x64.Build.0 = Debug|x64
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Debug|x86.Build.0 = Debug|Win32
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Release|x64.ActiveCfg = Release|x64
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Release|x64.Build.0 = Release|x64
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Release|x86.ActiveCfg = Release|Win32
+		{579B372F-42ED-4760-8F5D-B641930403AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCC34AB-72D1-4CDC-BF23-2121BC4E2FD8}
+	EndGlobalSection
+EndGlobal
