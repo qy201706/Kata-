@@ -40,3 +40,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > Permutations(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Permutations/question_instruction/instruction.txt)
 > ,,ԾㅂԾ,,  string s("") is a string whose length is zero...
+
+> 2020/4/19
+> The observed PIN(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/The%20observed%20PIN/question_instruction/question.txt)
+> difficult...!
