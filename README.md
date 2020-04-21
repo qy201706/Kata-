@@ -45,3 +45,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > The observed PIN(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/The%20observed%20PIN/question_instruction/question.txt)
 > difficult...!
+
+> 2020/4/21
+> Human readable duration format(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Human%20readable%20duration%20format/question_instruction/question.txt)
+> This Kata is not recommended to train...
