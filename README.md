@@ -50,3 +50,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > Human readable duration format(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Human%20readable%20duration%20format/question_instruction/question.txt)
 > This Kata is not recommended to train...
+
+> 2020/4/22
+> Matrix Determinant(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Matrix%20Determinant/question_instruction/instruction.txt)
+> To tackle this Kata, you should know the definetion of determinant.U•ェ•*U
