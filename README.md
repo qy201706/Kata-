@@ -55,3 +55,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > Matrix Determinant(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Matrix%20Determinant/question_instruction/instruction.txt)
 > To tackle this Kata, you should know the definetion of determinant.U•ェ•*U
+
+> 2020/4/23
+> Strings Mix(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Strings%20Mix/question_instruction/question.txt)
+> Get the usage of "pair<>" (ง •_•)ง and amazed by "sort()"...(sort alse can deal with pair<>)
