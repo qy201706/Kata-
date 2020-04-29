@@ -60,3 +60,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > Strings Mix(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Strings%20Mix/question_instruction/question.txt)
 > Get the usage of "pair<>" (ง •_•)ง and amazed by "sort()"...(sort alse can deal with pair<>)
+
+> 2020/4/29
+> Sudoku Solution Validator(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Sudoku%20Solution%20Validator/question_instruction/question.txt)
+> An easy nested loop...why 4kyu?(+_+)?
