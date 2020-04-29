@@ -37,6 +37,27 @@ bool validSolution(unsigned int board[9][9]) {
 	return true;
 }
 
+//best practice:
+/*bool validSolution(unsigned int board[9][9]){
+std::vector<int> s{ 0,0,0 };
+for (int i = 0; i < 9; ++i) {
+	int sum1 = 0, sum2 = 0;
+	for (int j = 0; j < 9; ++j) {
+		sum1 += board[i][j];
+		sum2 += board[j][i];
+		s[j / 3] += board[i][j];
+	}
+	if (sum1 != 45) return false;
+	if (sum2 != 45) return false;
+	if ((i + 1) % 3 == 0) {
+		if (s != std::vector<int>{45, 45, 45})
+			return false;
+		s = { 0,0,0 };
+	}
+}
+return true;
+}*/
+
 int main() {
 	unsigned int example1[9][9] = { {5, 3, 4, 6, 7, 8, 9, 1, 2},
 							 {6, 7, 2, 1, 9, 5, 3, 4, 8},
