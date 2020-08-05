@@ -65,3 +65,8 @@ WhichAreIn(6kyu)  (oﾟvﾟ)ノ(after finishing this,I upgrated to '7kyu' from '
 > Sudoku Solution Validator(4kyu)
 [instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Sudoku%20Solution%20Validator/question_instruction/question.txt)
 > An easy nested loop...why 4kyu?(+_+)?
+
+> 2020/8/5
+> Sum of Intervals(4kyu)
+[instruction:](https://github.com/qy201706/Kata-/blob/master/4kyu/Sum%20of%20intervals/question_instruction/question.txt)
+> Significant one!
